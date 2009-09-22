@@ -1,0 +1,13 @@
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m: In function '-[Songs init]':
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:18: error: 'songs' undeclared (first use in this function)
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:18: error: (Each undeclared identifier is reported only once
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:18: error: for each function it appears in.)
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m: In function '-[Songs songsWithTempoBetweenMin:andMax:]':
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:108: error: 'songs' undeclared (first use in this function)
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:111: error: expression does not have a valid object type
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m: In function '-[Songs songsWithVocals:]':
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:119: error: 'songs' undeclared (first use in this function)
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:122: error: expression does not have a valid object type
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m: In function '-[Songs songsInKey:]':
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:130: error: 'songs' undeclared (first use in this function)
+/Users/iamjwc/programming/iDontKnowWhatToPlayNext/Classes/Songs.m:133: error: expression does not have a valid object type
